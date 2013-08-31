@@ -1,5 +1,6 @@
 *.jar
 *.iml
+*.swp
 target
 clojure.iws
 clojure.ipr
@@ -7,5 +8,5 @@ nbproject/private/
 maven-classpath
 maven-classpath.properties
 .idea/
-*.swp
+tutorial-client/.lein-failures
 tutorial-client/.nrepl-port
